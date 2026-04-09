@@ -22,8 +22,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          install.packages("pak")
-          pak::pkg_install(c(
+          install.packages(c(
             "aRxiv", "tidyverse", "rvest", "progress",
             "telegram.bot", "httr", "logger",
             "checkmate", "here", "Rapp"
