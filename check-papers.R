@@ -40,6 +40,7 @@ bot$sendChatAction(CHAT_ID,
 # index 2: лог текущего запуска (отправится в Telegram одним сообщением в finally)
 run_log <- tempfile(fileext = ".log")
 log_appender(appender_file(run_log), index = 2)
+log_layout(layout_glue_generator(), index = 2)
 
 log_info("--- Start ({mode}) ---")
 
