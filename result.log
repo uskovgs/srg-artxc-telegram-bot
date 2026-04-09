@@ -1,0 +1,136 @@
+INFO [2026-04-09 18:43:01] --- Start ---
+INFO [2026-04-09 18:44:43] +ok: get_df_from_srg_papers
+WARN [2026-04-09 18:44:43] Not Found (HTTP 404).
+INFO [2026-04-09 18:44:43] Done
+INFO [2026-04-09 18:45:32] +ok: get_df_from_srg_papers
+INFO [2026-04-09 18:46:46] +ok: get_df_from_srg_papers
+INFO [2026-04-09 18:49:12] --- Start ---
+INFO [2026-04-09 18:49:34] +ok: get_df_from_srg_papers
+INFO [2026-04-09 18:49:35] +ok: get_df_from_srg_telegrams
+INFO [2026-04-09 18:49:36] +ok: arxiv_search
+INFO [2026-04-09 18:49:42] +ok: arxiv_search
+INFO [2026-04-09 18:49:45] +ok: get_df_from_adsabs
+INFO [2026-04-09 18:49:49] Done
+INFO [2026-04-09 18:55:00] --- Start ---
+INFO [2026-04-09 18:55:16] ✅ get_df_from_srg_papers
+INFO [2026-04-09 18:55:17] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 18:55:17] ✅ arxiv_search
+INFO [2026-04-09 18:55:23] ✅ arxiv_search
+INFO [2026-04-09 18:55:30] ✅ get_df_from_adsabs
+INFO [2026-04-09 18:55:30] There aren't new papers in telegram channel today.
+INFO [2026-04-09 18:55:30] Done
+INFO [2026-04-09 19:29:02] --- Start ---
+INFO [2026-04-09 19:29:20] ✅ get_df_from_srg_papers
+INFO [2026-04-09 19:29:20] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 19:29:21] ✅ arxiv_search
+INFO [2026-04-09 19:29:28] ✅ arxiv_search
+INFO [2026-04-09 19:29:38] ✅ get_df_from_adsabs
+INFO [2026-04-09 19:29:38] There aren't new papers in telegram channel today.
+INFO [2026-04-09 19:29:38] Done
+INFO [2026-04-09 20:29:58] --- Start (artxc) ---
+INFO [2026-04-09 20:30:29] ✅ get_df_from_srg_papers
+INFO [2026-04-09 20:30:29] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 20:30:31] ✅ arxiv_search
+INFO [2026-04-09 20:30:37] ✅ arxiv_search
+INFO [2026-04-09 20:30:45] ✅ get_df_from_adsabs
+INFO [2026-04-09 20:30:45] No new papers today.
+INFO [2026-04-09 20:30:45] Done
+INFO [2026-04-09 20:31:02] --- Start (erosita) ---
+INFO [2026-04-09 20:31:20] ✅ get_df_from_srg_papers
+INFO [2026-04-09 20:31:20] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 20:31:21] ✅ arxiv_search
+INFO [2026-04-09 20:31:27] ✅ arxiv_search
+INFO [2026-04-09 20:31:40] ✅ get_df_from_adsabs
+ERROR [2026-04-09 20:31:41] [1m[22m[36mℹ[39m In index: 1.
+[1mCaused by error in `private$request()`:[22m
+[33m![39m Forbidden (HTTP 403). Failed to {"ok":false,"error_code":403,"description":"Forbidden: bot is not a member of the channel chat"}.
+INFO [2026-04-09 20:31:41] Done
+INFO [2026-04-09 20:32:39] --- Start (erosita) ---
+INFO [2026-04-09 20:33:01] ✅ get_df_from_srg_papers
+INFO [2026-04-09 20:33:01] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 20:33:02] ✅ arxiv_search
+INFO [2026-04-09 20:33:08] ✅ arxiv_search
+INFO [2026-04-09 20:33:19] ✅ get_df_from_adsabs
+INFO [2026-04-09 20:33:19] No new papers today.
+INFO [2026-04-09 20:33:19] Done
+INFO [2026-04-09 20:36:49] --- Start (erosita) ---
+INFO [2026-04-09 20:37:09] ✅ get_df_from_srg_papers
+INFO [2026-04-09 20:37:09] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 20:37:10] ✅ arxiv_search
+INFO [2026-04-09 20:37:16] ✅ arxiv_search
+INFO [2026-04-09 20:37:28] ✅ get_df_from_adsabs
+ERROR [2026-04-09 20:38:03] [1m[22m[36mℹ[39m In index: 21.
+[1mCaused by error in `private$request()`:[22m
+[33m![39m Too Many Requests (RFC 6585) (HTTP 429). Failed to {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 27","parameters":{"retry_after":27}}.
+INFO [2026-04-09 20:38:03] Done
+INFO [2026-04-09 20:52:18] ✅ get_df_from_srg_papers
+INFO [2026-04-09 20:52:19] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 20:52:21] ✅ arxiv_search
+INFO [2026-04-09 20:52:27] ✅ arxiv_search
+INFO [2026-04-09 20:52:31] ✅ get_df_from_adsabs
+INFO [2026-04-09 21:05:48] --- Start (erosita) ---
+INFO [2026-04-09 21:06:14] ✅ get_df_from_srg_papers
+INFO [2026-04-09 21:06:15] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 21:06:15] ✅ arxiv_search
+INFO [2026-04-09 21:06:21] ✅ arxiv_search
+INFO [2026-04-09 21:06:31] ✅ get_df_from_adsabs
+ERROR [2026-04-09 21:06:57] [1m[22m[36mℹ[39m In index: 16.
+[1mCaused by error in `private$request()`:[22m
+[33m![39m Bad Request (HTTP 400). Failed to {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Unsupported start tag \"sub\" at byte offset 99"}.
+INFO [2026-04-09 21:06:57] Done
+INFO [2026-04-09 21:07:15] --- Start (artxc) ---
+INFO [2026-04-09 21:07:36] ✅ get_df_from_srg_papers
+INFO [2026-04-09 21:07:37] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 21:07:38] ✅ arxiv_search
+INFO [2026-04-09 21:07:44] ✅ arxiv_search
+INFO [2026-04-09 21:07:55] ✅ get_df_from_adsabs
+INFO [2026-04-09 21:07:55] No new papers today.
+INFO [2026-04-09 21:07:55] Done
+INFO [2026-04-09 21:10:23] --- Start (erosita) ---
+INFO [2026-04-09 21:10:49] ✅ get_df_from_srg_papers
+INFO [2026-04-09 21:10:49] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 21:10:50] ✅ arxiv_search
+INFO [2026-04-09 21:10:55] ✅ arxiv_search
+INFO [2026-04-09 21:10:59] ✅ get_df_from_adsabs
+INFO [2026-04-09 21:10:59] No new papers today.
+INFO [2026-04-09 21:10:59] Done
+INFO [2026-04-09 21:15:56] --- Start (artxc) ---
+INFO [2026-04-09 21:16:18] ✅ get_df_from_srg_papers
+INFO [2026-04-09 21:16:19] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 21:16:20] ✅ arxiv_search
+INFO [2026-04-09 21:16:25] ✅ arxiv_search
+INFO [2026-04-09 21:16:41] ✅ get_df_from_adsabs
+INFO [2026-04-09 21:16:41] Journals: 70, telegrams: 57, arXiv: 47
+INFO [2026-04-09 21:16:41] New journals: 20, new telegrams: 25
+INFO [2026-04-09 21:16:41] New papers to send: 0
+INFO [2026-04-09 21:16:41] No new papers today.
+INFO [2026-04-09 21:16:41] Done
+INFO [2026-04-09 21:25:52] --- Start (erosita) ---
+INFO [2026-04-09 21:26:15] ✅ get_df_from_srg_papers
+INFO [2026-04-09 21:26:15] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 21:26:17] ✅ arxiv_search
+INFO [2026-04-09 21:26:23] ✅ arxiv_search
+ERROR [2026-04-09 21:26:25] keyring error (macOS Keychain), cannot get password: User canceled the operation.
+INFO [2026-04-09 21:26:25] Done
+INFO [2026-04-09 21:33:22] --- Start (erosita) ---
+INFO [2026-04-09 21:33:48] ✅ get_df_from_srg_papers
+INFO [2026-04-09 21:33:48] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 21:33:49] ✅ arxiv_search
+INFO [2026-04-09 21:33:56] ✅ arxiv_search
+INFO [2026-04-09 21:34:10] ✅ get_df_from_adsabs
+INFO [2026-04-09 21:34:10] ADSABS journals: 108, arXiv: 163, telegrams: 9
+INFO [2026-04-09 21:34:10] New journals: 40, new telegrams: 8
+INFO [2026-04-09 21:34:10] New papers to send: 0
+INFO [2026-04-09 21:34:10] No new papers today.
+INFO [2026-04-09 21:34:10] Done
+INFO [2026-04-09 21:41:34] --- Start (erosita) ---
+INFO [2026-04-09 21:41:55] ✅ get_df_from_srg_papers
+INFO [2026-04-09 21:41:55] ✅ get_df_from_srg_telegrams
+INFO [2026-04-09 21:41:56] ✅ arxiv_search
+INFO [2026-04-09 21:42:02] ✅ arxiv_search
+INFO [2026-04-09 21:42:09] ✅ get_df_from_adsabs
+INFO [2026-04-09 21:42:09] ADSABS journals: 108, arXiv: 163, telegrams: 9
+INFO [2026-04-09 21:42:09] New journals: 40, new telegrams: 8
+INFO [2026-04-09 21:42:09] New papers to send: 0
+INFO [2026-04-09 21:42:09] No new papers today.
+INFO [2026-04-09 21:42:09] Done
