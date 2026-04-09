@@ -5,6 +5,9 @@ on:
     - cron: '0 8 * * *'  # 11:00 MSK
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   check-papers:
     runs-on: ubuntu-latest
